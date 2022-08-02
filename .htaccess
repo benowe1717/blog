@@ -1,1 +1,3 @@
 RedirectMatch 403 ^/.git/.*$
+RedirectMatch 403 README.md
+RedirectMatch 403 .gitignore
